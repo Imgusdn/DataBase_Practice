@@ -1,15 +1,15 @@
 # DataBase_Practice
 
 ## Use Data Base
-`Data Base?`= 
-`DBMS?` = 
+1. `Data Base?`= 
+2. `DBMS?` = 
 
-`Use Data Base` = Oracle DB
-`Use DBMS` = SQL Developer
+3. `Use Data Base` = Oracle DB
+4. `Use DBMS` = SQL Developer
 
 ## Constraint  
-`Primary Key` = 
-`Foreign Key` =
+1. `Primary Key` = 
+2. `Foreign Key` =
 
 ## Create Table, Modify Table
 ```
