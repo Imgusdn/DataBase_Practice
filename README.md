@@ -1,8 +1,19 @@
 # DataBase_Practice
 
+## Use Data Base
+`Data Base?`= 
+`DBMS?` = 
 
+`Use Data Base` = Oracle DB
+`Use DBMS` = SQL Developer
+
+## Constraint  
+`Primary Key` = 
+`Foreign Key` =
+
+## Create Table, Modify Table
 ```
-CREATE TABLE STADIUM (
+CREATE TABLE STADIUM (   #Create Table
 STADIUM_ID CHAR(3) NOT NULL,
 STADIUM_NAME VARCHAR2(40) NOT NULL,
 HOMETEAM_ID CHAR(3),
@@ -57,3 +68,5 @@ ALTER TABLE PLAYER MODIFY test3 varchar(50) null;
 
 select * from Player; 
 ```
+
+## Table entity-relationship Diagram
