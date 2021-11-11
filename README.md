@@ -13,7 +13,7 @@
 
 ## Create Table, Modify Table
 ```
-CREATE TABLE STADIUM (   #Create Table
+CREATE TABLE STADIUM (   /* Create Table */
 STADIUM_ID CHAR(3) NOT NULL,
 STADIUM_NAME VARCHAR2(40) NOT NULL,
 HOMETEAM_ID CHAR(3),
