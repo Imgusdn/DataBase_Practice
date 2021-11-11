@@ -1,7 +1,7 @@
 # DataBase_Practice
 
 
-'''
+```
 CREATE TABLE STADIUM (
 STADIUM_ID CHAR(3) NOT NULL,
 STADIUM_NAME VARCHAR2(40) NOT NULL,
@@ -56,5 +56,4 @@ ALTER TABLE PLAYER DROP COLUMN test2;
 ALTER TABLE PLAYER MODIFY test3 varchar(50) null;
 
 select * from Player; 
-
-'''
+```
