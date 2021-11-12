@@ -72,5 +72,4 @@ select * from Player; /* 플레이어 테이블의 모든 내용을 보기 */
 ```
 
 ## Table entity-relationship Diagram!
-[Relational_1](https://user-images.githubusercontent.com/83123393/141449073-4f93a0f3-19b9-4d1a-ae99-cc66ca67597d.png)
-
+![Relational_1](https://user-images.githubusercontent.com/83123393/141449694-f8ab7317-a6cb-4102-8a91-37878a7cbb3c.png)
