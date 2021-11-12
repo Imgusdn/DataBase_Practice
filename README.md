@@ -71,4 +71,6 @@ ALTER TABLE PLAYER MODIFY test3 varchar(50) null; /* 수정 플레이어 테이�
 select * from Player; /* 플레이어 테이블의 모든 내용을 보기 */
 ```
 
-## Table entity-relationship Diagram
+## Table entity-relationship Diagram!
+[Relational_1](https://user-images.githubusercontent.com/83123393/141449073-4f93a0f3-19b9-4d1a-ae99-cc66ca67597d.png)
+
