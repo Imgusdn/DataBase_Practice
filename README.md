@@ -3,7 +3,6 @@
 ## Use Data Base
 1. `Data Base?`= 데이터를 표 형식으로 표현한 테이블의 집합체
 2. `DBMS?` = DBMS란 사용자와 데이터베이스 사이에서 사용자의 요구에 따라 정보를 생성해주고 데이터베이스를 관리할 수 있게 해주는 소프트웨어
-
 3. `Use Data Base` = Oracle DB
 4. `Use DBMS` = SQL Developer
 
