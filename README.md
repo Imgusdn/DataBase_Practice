@@ -7,8 +7,17 @@
 4. `Use DBMS` = SQL Developer
 
 ## Oracle pros and cons
-`장점`=
-`단점`=
+`장점`
+1. PC급에서 Mainframe급까지 모두 설치가능
+2. 3rd Party의 강력한 지원
+3. 분산처리 지원 기능의 우수성
+4. SMP 및 MPP의 지원
+
+`단점`
+1. DBMS를 운영하기 위하여 많은 하드웨어 자원의 필요
+2. 복잡한 DBMS 관리
+3. 가격이 동종의 DBMS보다 비싸며 모든 제품에 Kernel이 필요
+4. 배우기 힘든 제품 기능들의 존재
 
 ## Constraint  
 1. `Primary Key` = 다른 항목과 절대로 중복되어 나타날 수 없는 단일 값을 가진 기본키
