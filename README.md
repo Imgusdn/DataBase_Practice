@@ -6,6 +6,10 @@
 3. `Use Data Base` = Oracle DB
 4. `Use DBMS` = SQL Developer
 
+## Oracle pros and cons
+`장점`=
+`단점`=
+
 ## Constraint  
 1. `Primary Key` = 다른 항목과 절대로 중복되어 나타날 수 없는 단일 값을 가진 기본키
 2. `Foreign Key` = 두 테이블을 서로 연결하는 데 사용되는 외래키다.
