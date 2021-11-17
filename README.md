@@ -93,6 +93,7 @@ CONSTRAINT PLAYER_FK FOREIGN KEY (TEAM_ID) REFERENCES TEAM(TEAM_ID) );
 ALTER TABLE PLAYER ADD test2 varchar(20); /* 수정 플레이어 테이블에 test2 가변길이(20)을 추가 */
 ALTER TABLE PLAYER DROP COLUMN test2; /* 수정 플레이어 테이블에 컬럼 test2를 삭제 */
 ALTER TABLE PLAYER MODIFY test3 varchar(50) null; /* 수정 플레이어 테이블 컬럼변경 test3의 가변길이(50) null값은 허용 */
+ALTER TABLE PLAYER RENAME COLUMN test2 to test3; /* 수정 플레이어 테이블의 컬럼 test2를 test3로 이름변경 */
 
 select * from Player; /* 플레이어 테이블의 모든 내용을 보기 */
 ```
