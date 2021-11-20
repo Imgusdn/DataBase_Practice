@@ -88,7 +88,7 @@ CONSTRAINT PLAYER_FK FOREIGN KEY (TEAM_ID) REFERENCES TEAM(TEAM_ID) );
 
 /*ALTER TABLE 테이블명 ADD 추가할 칼럼명 데이터 유형;*/
 
-/* 1. add 2. drop 3. modify 4.rename*/
+/* 1. add 2. drop 3. modify 4.rename */
 
 ALTER TABLE PLAYER ADD test2 varchar(20); /* 수정 플레이어 테이블에 test2 가변길이(20)을 추가 */
 ALTER TABLE PLAYER DROP COLUMN test2; /* 수정 플레이어 테이블에 컬럼 test2를 삭제 */
